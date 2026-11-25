@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Physics laboratory</title>
+  <desc id="desc">Illustration of a physics and electronics laboratory</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#312e81"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+  <rect width="960" height="540" fill="url(#bg)"/><rect y="365" width="960" height="175" fill="#172554"/>
+  <rect x="90" y="125" width="770" height="230" rx="16" fill="#eff6ff" opacity=".92"/>
+  <path d="M125 325h710M170 200h185M170 255h185M590 190h205M590 245h205" stroke="#93c5fd" stroke-width="12"/>
+  <rect x="270" y="170" width="150" height="110" rx="8" fill="#1e3a8a" stroke="#60a5fa" stroke-width="8"/>
+  <path d="M290 250c30-80 55 60 85-30 20-60 35 15 45-35" fill="none" stroke="#67e8f9" stroke-width="6"/>
+  <path d="M585 320v-155M550 205h70M550 245h70M550 285h70" stroke="#1e40af" stroke-width="12"/>
+  <path d="M700 180l70 145M770 180l-70 145M670 325h130" stroke="#f59e0b" stroke-width="9"/>
+  <text x="55" y="70" fill="white" font-family="Arial,sans-serif" font-size="30" font-weight="700">LAB CONNECT • PHYSICS &amp; OPTICS</text>
+</svg>

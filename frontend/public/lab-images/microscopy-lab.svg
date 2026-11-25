@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Microscopy laboratory</title>
+  <desc id="desc">Illustration of a biology microscopy laboratory</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#164e63"/><stop offset="1" stop-color="#15803d"/></linearGradient></defs>
+  <rect width="960" height="540" fill="url(#bg)"/><rect y="365" width="960" height="175" fill="#123d3a"/>
+  <rect x="90" y="125" width="770" height="230" rx="16" fill="#ecfdf5" opacity=".9"/>
+  <path d="M120 325h700M165 210h160M165 260h160M575 190h210M575 240h210" stroke="#86efac" stroke-width="12" opacity=".7"/>
+  <path d="M250 335V230h95v105M650 335V220h100v115" fill="#f8fafc" stroke="#4ade80" stroke-width="8"/>
+  <path d="M470 145l-55 90h35v70h75v-70h35z" fill="#bae6fd" stroke="#0f766e" stroke-width="10"/>
+  <circle cx="487" cy="255" r="13" fill="#16a34a"/><circle cx="455" cy="285" r="8" fill="#22c55e"/><circle cx="510" cy="290" r="10" fill="#15803d"/>
+  <path d="M730 115c50 0 90 40 90 90s-40 90-90 90c-38 0-68-22-82-53" fill="none" stroke="#166534" stroke-width="12"/>
+  <text x="55" y="70" fill="white" font-family="Arial,sans-serif" font-size="30" font-weight="700">LAB CONNECT • LIFE SCIENCES</text>
+</svg>

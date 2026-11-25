@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Chemistry laboratory</title>
+  <desc id="desc">Illustration of a modern chemistry laboratory</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0f3b63"/><stop offset="1" stop-color="#159a9c"/></linearGradient>
+    <linearGradient id="glass" x1="0" x2="1"><stop stop-color="#d9f7ff"/><stop offset="1" stop-color="#7dd3fc"/></linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#bg)"/>
+  <rect y="350" width="960" height="190" fill="#102a43"/>
+  <rect x="90" y="130" width="250" height="220" rx="12" fill="#dbeafe" opacity=".9"/>
+  <rect x="390" y="105" width="480" height="245" rx="12" fill="#e0f2fe" opacity=".85"/>
+  <path d="M75 350h810M170 220h90M440 190h320M440 245h320" stroke="#38bdf8" stroke-width="12" opacity=".65"/>
+  <path d="M150 350v-115h70v115M500 350v-155h65v155M650 350v-120h75v120" fill="#f8fafc" stroke="#93c5fd" stroke-width="8"/>
+  <path d="M535 165v-45h-28v-25h90v25h-28v45l35 75c8 18-5 38-25 38h-54c-20 0-33-20-25-38z" fill="url(#glass)" stroke="#eff6ff" stroke-width="7"/>
+  <circle cx="548" cy="239" r="13" fill="#2563eb" opacity=".7"/>
+  <path d="M720 150v100M700 170h40M700 205h40M700 240h40" stroke="#0f3b63" stroke-width="10"/>
+  <text x="55" y="70" fill="white" font-family="Arial,sans-serif" font-size="30" font-weight="700">LAB CONNECT • CHEMISTRY</text>
+</svg>
